@@ -53,4 +53,7 @@ Adaboost considers different hyperparameters like Decision Tree and Random Fores
 ## Conclusion
 Selecting suitable modes of childbirth is important for the safety of mother as well as new born child. But the best set of features for predicting can be explored more. This study examined all possible features for classification of type of birth and different models were applied. In this report, we compared a variety of traditional classifiers like Decision tree, KNN, SVM with the ensemble classifiers like AdaBoost and Random Forest which are the novel techniques used in prediction of childbirth mode. It has helped the doctors as well as the user to identify key factors that influence caesarean section. In this research, performances of all the algorithms with different performance parameters like precision, recall, F1 score and ROC-AUC are shortlisted on the basis of ROC-AUC score of all the models with different parameters. The research concluded with the AdaBoost model having the highest ROC-AUC score i.e. 0.98532 when it is considered to train the data with Random Forest base estimator along with the combination of 0.1 as learning rate, 30 as number of estimators and 10 folds. The second highest score was obtained for Random Forest i.e. 0.98513. Thus, it is observed that ensemble machine learning models show a better performance than the traditional machine learning models.
 ![image](https://user-images.githubusercontent.com/74055483/199099855-f57f68d0-1806-48b9-927e-7869abe7c39d.png)
+## Authors
+
+- Sanjam Kaur Bedi : @Sanjam-Bedi
 
